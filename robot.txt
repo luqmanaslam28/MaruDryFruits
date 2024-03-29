@@ -1,0 +1,4 @@
+user-agents: *
+Disallow:
+Disallow: /cgi-bin/
+sitemap: https://maru-dry-fruits.netlify.app/sitemap.xml
