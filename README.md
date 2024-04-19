@@ -7,7 +7,7 @@
 
 ## Demo
 
-https://maru-dry-fruits.netlify.app/
+https://marudryfruitweb.netlify.app/
 
 
 ## Authors
